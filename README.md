@@ -36,3 +36,16 @@ Presents results in both textual and visual formats
 The chart provides a quick, high-level comparison of all candidates.
 
 This visual summary is useful for non-technical stakeholders and helps communicate results clearly during reviews or presentations.
+
+## Notebook Walkthrough
+
+The full implementation and analysis are available in the Jupyter Notebook:
+- `resume_screening_rn.ipynb`
+
+The notebook includes data preprocessing, skill extraction, candidate scoring, ranking, and visual explanations.
+
+.
+├── resume_screening_rn.ipynb
+├── README.md
+├── LICENSE
+
