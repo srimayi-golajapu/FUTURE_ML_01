@@ -44,21 +44,15 @@ The full implementation and analysis are available in the Jupyter Notebook:
 
 The notebook includes data preprocessing, skill extraction, candidate scoring, ranking, and visual explanations.
 
+## Project Structure
 
-.
-├── resume_screening_rn.ipynb
-├── README.md
-├── LICENSE
-├── requirements.txt
-
-
-Project Structure
-- resume_screening_rn.ipynb – complete implementation and analysis
-- README.md – project overview and explanation
+- resume_screening_rn.ipynb – complete implementation of resume screening, scoring, ranking, and visualization
+- README.md – project overview, methodology, and explanation
 - LICENSE – MIT license
-- requirements.txt – dependencies
+- requirements.txt – list of project dependencies
 
-Limitations and Future Work:
+
+## Limitations and Future Work:
 
 Skill matching relies on explicit keyword mentions and may miss implicit skills.
 Synonyms and variations are not fully captured.
