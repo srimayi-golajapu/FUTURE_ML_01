@@ -26,16 +26,16 @@ A simple bar chart visualization is used to display candidate rankings based on 
 Each bar represents a candidate.
 Taller bars indicate stronger alignment with RN requirements.
 
-Summary:
+## Skills Used
 
-With these enhancements, the system goes beyond basic keyword matching and becomes a transparent decision-support tool that:
-Ranks candidates clearly
-Explains why candidates rank higher or lower
-Highlights missing skills
-Presents results in both textual and visual formats
-The chart provides a quick, high-level comparison of all candidates.
-
-This visual summary is useful for non-technical stakeholders and helps communicate results clearly during reviews or presentations.
+- Python
+- Natural Language Processing (NLP)
+- Text preprocessing
+- Keyword-based skill extraction
+- Resume screening and ranking
+- Data analysis
+- Matplotlib for visualization
+- Jupyter Notebook
 
 ## Notebook Walkthrough
 
